@@ -1,4 +1,4 @@
-# Admission-Chances-Predictor-Deep-Learning-Model-for-Master-s-Program-Admission
+# Admission-Chances-Predictor-Deep-Learning-Model-for-Masters-Program-Admission
 
 **Introduction:**
 
